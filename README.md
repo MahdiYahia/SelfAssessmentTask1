@@ -21,6 +21,6 @@
 - Class used to solve the problem:
   SortingWords
 - Output:
-  I assumed a word is a group of letters that is not separated by any non letter characters.
+  I assumed a word is a group of letters that is not separated by any non letter characters. <br>
 ![image](https://github.com/user-attachments/assets/d40cc023-aaee-43be-9c32-11cc092a8f21)
 ![image](https://github.com/user-attachments/assets/36d1ca57-57c8-4c41-b992-00fccc8ccd9e)
