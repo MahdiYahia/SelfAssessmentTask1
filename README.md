@@ -1,3 +1,6 @@
+# Student Name: Mahdi Yahia
+# Matriculation Number: 7221528
+
 # SelfAssessmentTask1
 # Problem 1:
 - Class used to solve the problem:
